@@ -18,7 +18,7 @@ When I click on my "CODES" folder that I wrote in this assignment, my GUI design
 The "css" and "js" folders contain the libraries and structures needed for my GUI design.
 
 The "connection" code is for communicating between our MySQL and PHP code.
-The 'root' and '12345678' data I entered are my mysql user and password.
+The 'root' and '1*******' data I entered are my mysql user and password.
 
 My SQL file named "datatable_example.sql" contains the database I wrote.
 
